@@ -14,7 +14,7 @@ each game which go into depth on their functionalities and frameworks.
 
 
 <h3>Goblin Slayer</h3>
-![Goblin Slayer s.s.](https://github.com/wisenickel5/Pygamez/blob/master/game_images/GS_ss.JPG)
+![goblin](game_images/GS_ss.JPG)
 
 <h3>Space Invaders</h3>
-![Space Invaders s.s.](https://github.com/wisenickel5/Pygamez/blob/master/game_images/SI_ss.JPG)
+![space](game_images/SI_ss.JPG)
