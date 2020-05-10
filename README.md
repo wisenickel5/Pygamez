@@ -14,7 +14,10 @@ each game which go into depth on their functionalities and frameworks.
 
 
 <h3>Goblin Slayer</h3>
-![goblin](game_images/GS_ss.JPG)
+![goblin](GS_ss.JPG)
+
+
+
 
 <h3>Space Invaders</h3>
-![space](game_images/SI_ss.JPG)
+![space](SI_ss.JPG)
