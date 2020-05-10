@@ -19,7 +19,9 @@ The three main objects in this game are the player, enemy, and the projectile.
 The player and enemy share similar class attributes and methods, but differ in
 the way that they move, hit, and update. This grants the player the ability to
 move freely as they wish, while the enemy is set moving monotonously back and forth
-across the screen. Health is updated for the goblin simultaneously as he is hit with
+across the screen.
+
+Health is updated for the goblin simultaneously as he is hit with
 a projectile. Instead of health for the player, collision dictates the score of the game.  
 
 This was done by giving both the player and the goblin a hitbox, if the X and Y
