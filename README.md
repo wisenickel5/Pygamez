@@ -1,23 +1,22 @@
-<h1>Pygamez</h1>
-<h2>A collection of games built with Python</h2>
+# Pygamez
+## A collection of games built with Python
 
 This repository houses arcade-style games which were built with 
 Pygame modules. You will find additional README.txt's attached to 
 each game which go into depth on their functionalities and frameworks.
 
 
-<h3>Current games in the repository:</h3>
--Goblin Slayer
-
--Space Invaders
-
-
-
-<h3>Goblin Slayer</h3>
-![goblin](GS_ss.JPG)
+### Current games in the repository:
+- Goblin Slayer
+- Space Invaders
 
 
 
+### Goblin Slayer
+![goblin](game_images/GS_ss.JPG)
 
-<h3>Space Invaders</h3>
-![space](SI_ss.JPG)
+
+
+
+### Space Invaders
+![space](game_images/SI_ss.JPG)
